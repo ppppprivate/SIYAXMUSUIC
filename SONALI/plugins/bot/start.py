@@ -21,9 +21,9 @@ from SONALI.utils.database import (
     is_banned_user,
     is_on_off,
 )
-from PURVIMUSIC.utils.decorators.language import LanguageStart
-from PURVIMUSIC.utils.formatters import get_readable_time
-from PURVIMUSIC.utils.inline import help_pannel, private_panel, start_panel
+from SONALI.utils.decorators.language import LanguageStart
+from SONALI.utils.formatters import get_readable_time
+from SONALI.utils.inline import help_pannel, private_panel, start_panel
 from config import BANNED_USERS
 from strings import get_string
 
